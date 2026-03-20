@@ -8,7 +8,7 @@
 
 ## Overview
 
-![Video](assets/video.gif)
+[![Watch the video](https://img.youtube.com/vi/Gs9TPZmzo-s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gs9TPZmzo-s)
 
 This is the official repository for **[Demystifying Video Reasoning](https://huggingface.co/papers/2603.16870)**.
 
