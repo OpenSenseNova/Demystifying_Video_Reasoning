@@ -22,7 +22,7 @@ Recent advances in video generation have revealed an unexpected phenomenon: diff
 
 ## Release Plan
 
-- [] **Tntermediate steps decoding tool**
+- [] **Intermediate steps decoding tool**
 - [] **Layer-wise token-Level visualization tool**
 
 ## Citation
