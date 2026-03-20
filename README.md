@@ -8,7 +8,7 @@
 
 ## Overview
 
-<video src="assets/video.mp4" controls></video>
+![Video](assets/video.gif)
 
 This is the official repository for **[Demystifying Video Reasoning](https://huggingface.co/papers/2603.16870)**.
 
