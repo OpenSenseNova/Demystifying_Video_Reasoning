@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-PDF-red?logo=arxiv)](https://arxiv.org/abs/2603.16870)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Paper-orange)](https://huggingface.co/papers/2603.16870)
-[![Video](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Gs9TPZmzo-s)
+[![Video](https://img.shields.io/badge/YouTube-Video-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Gs9TPZmzo-s)
 
 ## Overview
 
