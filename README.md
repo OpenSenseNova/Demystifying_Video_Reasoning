@@ -33,7 +33,7 @@ pip install matplotlib scikit-learn   # for token visualization
 
 ## Model Download
 
-### Wan2.2-I2V-A14B
+#### Wan2.2-I2V-A14B
 
 Download from [Hugging Face](https://huggingface.co/Wan-AI/Wan2.2-I2V-A14B):
 
@@ -41,7 +41,7 @@ Download from [Hugging Face](https://huggingface.co/Wan-AI/Wan2.2-I2V-A14B):
 huggingface-cli download Wan-AI/Wan2.2-I2V-A14B --local-dir ./models/Wan-AI/Wan2.2-I2V-A14B
 ```
 
-### Wan2.1-I2V-14B-720P
+#### Wan2.1-I2V-14B-720P
 
 Download from [Hugging Face](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P):
 
@@ -49,7 +49,7 @@ Download from [Hugging Face](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P):
 huggingface-cli download Wan-AI/Wan2.1-I2V-14B-720P --local-dir ./models/Wan-AI/Wan2.1-I2V-14B-720P
 ```
 
-### LTX-2.3 (Repackaged)
+#### LTX-2.3 (Repackaged)
 
 Download from [Hugging Face](https://huggingface.co/DiffSynth-Studio/LTX-2.3-Repackage):
 
@@ -60,13 +60,14 @@ huggingface-cli download google/gemma-3-12b-it-qat-q4_0-unquantized --local-dir 
 
 > **Note:** Models are also auto-downloaded at runtime if not found locally.
 
-### VBVR lora model family trained on [VBVR-Dataset](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset)
+#### VBVR lora model family trained on [VBVR-Dataset](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset)
 
 Download VBVR-Wan2.2 from [Hugging Face](https://huggingface.co/Video-Reason/VBVR-Wan2.2-diffsynth), VBVR-Wan2.1 from [Hugging Face](https://huggingface.co/Video-Reason/VBVR-Wan2.1-diffsynth), VBVR-LTX2.3 from [Hugging Face](https://huggingface.co/Video-Reason/VBVR-LTX2.3-diffsynth):
 ```bash
 huggingface-cli download Video-Reason/VBVR-Wan2.1-diffsynth --local-dir ./models/VBVR/VBVR-Wan2.1-diffsynth
 huggingface-cli download Video-Reason/VBVR-Wan2.2-diffsynth --local-dir ./models/VBVR/VBVR-Wan2.2-diffsynth
 huggingface-cli download Video-Reason/VBVR-LTX2.3-diffsynth --local-dir ./models/VBVR/VBVR-LTX2.3-diffsynth
+```
 
 ## Evaluation Data
 
