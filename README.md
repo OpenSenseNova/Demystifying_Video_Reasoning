@@ -209,3 +209,13 @@ python tools/custom_token_visualization.py \
   year={2026}
 }
 ```
+
+## Acknowledgements
+
+This project includes code that is modified from the original work by the DiffSynth-Studio team.
+
+* Source repository: https://github.com/modelscope/DiffSynth-Studio
+* Original project: **modelscope/DiffSynth-Studio**
+
+We gratefully acknowledge the authors and contributors of DiffSynth-Studio for their work.
+Please refer to the original repository for full details, updates, and licensing information.
