@@ -218,12 +218,20 @@ python tools/custom_token_visualization.py \
 
 ## Citation
 
+If you find this work useful, please cite our paper published in the [ECCV 2026 proceedings](https://doi.org/10.1007/978-3-032-37086-0_17):
+
 ```bibtex
-@article{wang2026demystifing,
-  title={Demystifing Video Reasoning},
+@inproceedings{wang2026demystifying,
+  title={Demystifying Video Reasoning},
   author={Wang, Ruisi and Cai, Zhongang and Pu, Fanyi and Xu, Junxiang and Yin, Wanqi and Wang, Maijunxian and Ji, Ran and Gu, Chenyang and Li, Bo and Huang, Ziqi and Deng, Hokin and Lin, Dahua and Liu, Ziwei and Yang, Lei},
-  journal={arXiv preprint arXiv:2603.16870},
-  year={2026}
+  booktitle={Computer Vision -- ECCV 2026},
+  series={Lecture Notes in Computer Science},
+  volume={17059},
+  pages={308--328},
+  publisher={Springer Nature Switzerland},
+  year={2026},
+  doi={10.1007/978-3-032-37086-0_17},
+  url={https://doi.org/10.1007/978-3-032-37086-0_17}
 }
 ```
 
